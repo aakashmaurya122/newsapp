@@ -1,0 +1,31 @@
+.background {
+    background-color: rgb(6, 6, 111);
+}
+
+.background2 {
+    background-color: lightskyblue;
+}
+
+.btn:hover {
+    background-color: rgb(0, 0, 255);
+    color: aliceblue;
+}
+
+.card-title {
+    height: 100px;
+}
+
+.card-text {
+    height: 160px;
+}
+
+.card-source {
+    padding: 6px;
+    background-color: lightgray;
+    font-size: 12px;
+    text-align: center;
+}
+
+.nav-language {
+    margin-left: 110px;
+}
